@@ -19,5 +19,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</ce>
 	<ce folder="db/modded">
 		<file name="types_windstride.xml" type="types" />
+		<file name="dogtags_types.xml" type="types" />
 	</ce>
 </economycore>

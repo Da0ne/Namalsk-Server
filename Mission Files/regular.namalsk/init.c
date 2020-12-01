@@ -135,6 +135,25 @@ class CustomMission: MissionServer
 		player.GetStatWater().Set( 900 );
 		player.GetStatEnergy().Set( 1100 );
 	}
+
+	//Dogtags mod
+	//? this method is called when players respawn/spawn/login
+	override Dogtag_Base EquipDogtag(PlayerBase player)
+	{
+		array<string> tags = {"Dogtag_Survivor", "Dogtag_Hero", "Dogtag_Bandit"}; // list of available dogtag variants
+
+		Dogtag_Base tag;
+		if (!player.HasDogtag()) // check if the player has a tag already
+		{
+			// create a new tag is the player doesn't have one
+			int slotId = InventorySlots.GetSlotIdFromString("Dogtag");
+			tag = player.GetInventory().CreateAttachmentEx(tags.GetRandomElement(), slotId); // give the player a random dogtag variant
+		}
+
+		tag = player.GetDogtag(); // get current tag on player, new or existing
+		tag.SetNickName(player.GetIdentity().GetName()); // updates player's name, even after relog
+		return tag;
+	}
 };
   
 Mission CreateCustomMission(string path)
