@@ -16,5 +16,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</classes>
 	<ce folder="db">
 		<file name="types_dzn.xml" type="types" />
+		<file name="ModdedStuff/types_dzn.xml" type="types" />
+	</ce>
+	<ce folder="db/modded">
+		<file name="types_windstride.xml" type="types" />
 	</ce>
 </economycore>
