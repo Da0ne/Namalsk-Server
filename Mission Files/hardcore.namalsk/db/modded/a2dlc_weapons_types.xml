@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+	<!-- ArmA-2-DLC-WEAPON-PACK START -->
+   <type name="A2DLC_CZ805A2_StndBttstck">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_CZ805A2_SnprBttstck">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_CZ805A2_LghtBttstck">
+      <nominal>5</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_COMPACT">
+      <nominal>20</nominal>
+      <lifetime>10800</lifetime>
+      <restock>1800</restock>
+      <min>15</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+	  <usage />
+	  <tag name="military" />
+	  <tag name="police" />
+      <value name="Tier23" />
+   </type>
+   <type name="A2DLC_CZ750">
+      <nominal>6</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+      <category name="weapons" />
+	  <usage />
+	  <tag name="military" />
+      <value name="Tier4" />
+   </type>
+   <type name="Mag_A2DLC_CZ750_10rnd">
+      <nominal>10</nominal>
+      <lifetime>10800</lifetime>
+      <restock>900</restock>
+      <min>5</min>
+      <quantmin>20</quantmin>
+      <quantmax>80</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+	  <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_CZ805A2">
+      <nominal>10</nominal>
+      <lifetime>10800</lifetime>
+      <restock>1800</restock>
+      <min>5</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier3" />
+   </type>
+   <type name="A2DLC_CZ805B">
+      <nominal>5</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier4" />
+   </type>
+   <type name="A2DLC_SA58P">
+      <nominal>10</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_SA58SF">
+      <nominal>6</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier4" />
+   </type>
+   <type name="Mag_A2DLC_SA58_30rnd">
+      <nominal>10</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>5</min>
+      <quantmin>5</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_SA58_WoodBttstck">
+      <nominal>10</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_SA58_LghtBttstck">
+      <nominal>12</nominal>
+      <lifetime>7200</lifetime>
+      <restock>3600</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier234" />
+   </type>
+   <type name="Mag_A2DLC_CZ805B_20rnd">
+      <nominal>6</nominal>
+      <lifetime>3600</lifetime>
+      <restock>1800</restock>
+      <min>4</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="A2DLC_EVO">
+      <nominal>5</nominal>
+      <lifetime>3600</lifetime>
+      <restock>1800</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <type name="Mag_A2DLC_EVO_30rnd">
+      <nominal>10</nominal>
+      <lifetime>10800</lifetime>
+      <restock>1800</restock>
+      <min>3</min>
+      <quantmin>20</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier23" />
+   </type>
+   <type name="A2DLC_UK59">
+      <nominal>3</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier4" />
+   </type>
+   <type name="Mag_A2DLC_UK59_50rnd">
+      <nominal>5</nominal>
+      <lifetime>10800</lifetime>
+      <restock>3600</restock>
+      <min>1</min>
+      <quantmin>5</quantmin>
+      <quantmax>30</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <usage />
+	  <tag name="military" />
+      <value name="Tier34" />
+   </type>
+   <!-- ArmA-2-DLC-WEAPON-PACK END -->
+</types>
