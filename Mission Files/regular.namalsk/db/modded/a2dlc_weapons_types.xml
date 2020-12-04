@@ -13,7 +13,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_CZ805A2_SnprBttstck">
       <nominal>5</nominal>
@@ -27,7 +27,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_CZ805A2_LghtBttstck">
       <nominal>5</nominal>
@@ -41,7 +41,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_COMPACT">
       <nominal>20</nominal>
@@ -56,7 +56,7 @@
 	  <usage />
 	  <tag name="military" />
 	  <tag name="police" />
-      <value name="Tier23" />
+      <value user="Tier23" />
    </type>
    <type name="A2DLC_CZ750">
       <nominal>6</nominal>
@@ -84,7 +84,7 @@
       <category name="weapons" />
 	  <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_CZ805A2">
       <nominal>10</nominal>
@@ -126,7 +126,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_SA58SF">
       <nominal>6</nominal>
@@ -154,7 +154,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_SA58_WoodBttstck">
       <nominal>10</nominal>
@@ -168,7 +168,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_SA58_LghtBttstck">
       <nominal>12</nominal>
@@ -182,7 +182,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier234" />
+      <value user="Tier234" />
    </type>
    <type name="Mag_A2DLC_CZ805B_20rnd">
       <nominal>6</nominal>
@@ -196,7 +196,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="A2DLC_EVO">
       <nominal>5</nominal>
@@ -210,7 +210,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <type name="Mag_A2DLC_EVO_30rnd">
       <nominal>10</nominal>
@@ -224,7 +224,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier23" />
+      <value user="Tier23" />
    </type>
    <type name="A2DLC_UK59">
       <nominal>3</nominal>
@@ -252,7 +252,7 @@
       <category name="weapons" />
       <usage />
 	  <tag name="military" />
-      <value name="Tier34" />
+      <value user="Tier34" />
    </type>
    <!-- ArmA-2-DLC-WEAPON-PACK END -->
 </types>
