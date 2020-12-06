@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<damage min="0.58" max="0.9" />
+	<type name="GiftBox_Large_1">
+        <cargo preset="xmaslarge" />
+    </type>
+	<type name="GiftBox_Large_2">
+        <cargo preset="xmaslarge" />
+    </type>
+	<type name="GiftBox_Large_3">
+        <cargo preset="xmaslarge" />
+    </type>
+	<type name="GiftBox_Large_4">
+        <cargo preset="xmaslarge" />
+    </type>
+	<type name="GiftBox_Medium_1">
+        <cargo preset="xmasmedium" />
+    </type>
+	<type name="GiftBox_Medium_2">
+        <cargo preset="xmasmedium" />
+    </type>
+	<type name="GiftBox_Medium_3">
+        <cargo preset="xmasmedium" />
+    </type>
+	<type name="GiftBox_Medium_4">
+        <cargo preset="xmasmedium" />
+    </type>
+	<type name="GiftBox_Small_1">
+        <cargo preset="xmassmall" />
+    </type>
+	<type name="GiftBox_Small_2">
+        <cargo preset="xmassmall" />
+    </type>
+	<type name="GiftBox_Small_3">
+        <cargo preset="xmassmall" />
+    </type>
+	<type name="GiftBox_Small_4">
+        <cargo preset="xmassmall" />
+    </type>
+</spawnabletypes>

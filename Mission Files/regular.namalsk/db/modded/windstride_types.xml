@@ -90,7 +90,7 @@
 		<usage />
         <category name="clothes"/>
 		<tag name="military" />
-        <value name="Tier34"/>
+        <value user="Tier34"/>
     </type>
     <type name="Poncho_Red_Checkered">
         <nominal>5</nominal>
@@ -286,7 +286,7 @@
 		<usage />
         <category name="clothes"/>
 		<tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
     </type>
     <type name="Military_Sweater_Red">
         <nominal>10</nominal>
@@ -300,7 +300,7 @@
 		<usage />
         <category name="clothes"/>
         <tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
     </type>
     <type name="Military_Sweater_Blue">
         <nominal>10</nominal>
@@ -314,7 +314,7 @@
 		<usage />
         <category name="clothes"/>
         <tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
     </type>
     <type name="Military_Sweater_Green">
         <nominal>10</nominal>
@@ -328,7 +328,7 @@
 		<usage />
         <category name="clothes"/>
         <tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
     </type>
     <type name="Military_Sweater_Black">
         <nominal>10</nominal>
@@ -342,7 +342,7 @@
 		<usage />
         <category name="clothes"/>
         <tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
     </type>
     <type name="Military_Sweater_White">
         <nominal>10</nominal>
@@ -357,7 +357,7 @@
         <category name="clothes"/>
 		<tag name="military" />
 		<tag name="hunting" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
     </type>
     <type name="High_Knee_Sneakers">
         <nominal>20</nominal>
@@ -397,7 +397,7 @@
 		<usage />
         <category name="clothes"/>
         <tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
   </type>
     <type name="Shemagh_Green">
         <nominal>20</nominal>
@@ -411,7 +411,7 @@
 		<usage />
         <category name="clothes"/>
         <tag name="military" />
-        <value name="Tier234"/>
+        <value user="Tier234"/>
   </type>
     <type name="Shemagh_Red">
         <nominal>25</nominal>
