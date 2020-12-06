@@ -20,7 +20,7 @@
 		<item name="SparkPlug" chance="0.05" />
 	</cargo>
 	<!-- ---------- -->
-	<cargo chance="0.20" name="toolsgeneral">
+	<cargo chance="0.35" name="toolsgeneral">
 		<item name="KitchenKnife" chance="0.025" />
 		<item name="HuntingKnife" chance="0.025" />
 		<item name="SteakKnife" chance="0.025" />
@@ -39,7 +39,7 @@
 		<item name="LeatherSewingKit" chance="0.05" />
 	</cargo>
 
-	<cargo chance="0.20" name="toolshunting">
+	<cargo chance="0.25" name="toolshunting">
 		<item name="HuntingKnife" chance="0.15" />
 		<item name="Matchbox" chance="0.10" />
 		<item name="Battery9V" chance="0.15" />
@@ -52,7 +52,7 @@
 		<item name="LeatherSewingKit" chance="0.05" />
 	</cargo>
 	
-	<cargo chance="0.20" name="toolsmilitary">
+	<cargo chance="0.25" name="toolsmilitary">
 		<item name="CombatKnife" chance="0.15" />
 		<item name="Battery9V" chance="0.15" />
 		<item name="UniversalLight" chance="0.20" />
@@ -62,7 +62,7 @@
 		<item name="Epinephrine" chance="0.05" />
 	</cargo>
 
-	<cargo chance="0.20" name="toolsmedic">
+	<cargo chance="0.45" name="toolsmedic">
 		<item name="Heatpack" chance="0.13" />
 		<item name="SewingKit" chance="0.10" />
 		<item name="BandageDressing" chance="0.10" />
@@ -77,7 +77,7 @@
 		<item name="SalineBagIV" chance="0.05" />
 	</cargo>
 
-	<cargo chance="0.20" name="toolspolice">
+	<cargo chance="0.25" name="toolspolice">
 		<item name="BandageDressing" chance="0.10" />
 		<item name="Battery9V" chance="0.10" />
 		<item name="PersonalRadio" chance="0.10" />
@@ -128,7 +128,7 @@
 		<item name="Mag_IJ70_8Rnd" chance="1.00" />
 	</cargo>
 
-	<cargo chance="0.10" name="magspolice">
+	<cargo chance="0.15" name="magspolice">
 		<item name="Mag_CZ75_15Rnd" chance="0.20" />
 		<item name="Mag_MP5_15Rnd" chance="0.20" />
 		<item name="Mag_MP5_30Rnd" chance="0.20" />
