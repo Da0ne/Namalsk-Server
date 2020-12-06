@@ -13,6 +13,7 @@
         <category name="bags" />
     </categories>
     <tags>
+		<tag name="xmass" />
         <tag name="military" />
         <tag name="civilian" />
         <tag name="hunting" />

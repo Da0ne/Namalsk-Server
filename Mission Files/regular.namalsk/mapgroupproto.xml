@@ -4,6 +4,40 @@
 				<default name="group" lootmax="10" />
 				<default name="container" lootmax="10" />
 		</defaults>
+		<!-- Modded Additions!-->
+		<group name="ChristmasTree" lootmax="11">
+			<container name="XmassFloor" lootmax="10">
+				<category name="containers" />
+				<tag name="xmass" />
+				<point pos="3.846302 -9.884858 -2.004677" range="0.5" height="1.5" flags="32" /> 
+				<point pos="1.373862 -9.936338 -2.753921" range="0.5" height="1.5" flags="32" /> 
+				<point pos="-0.930881 -9.590361 -3.250165" range="0.5" height="0.5" flags="32" /> 
+				<point pos="-2.586010 -9.663356 -1.876755" range="0.5" height="2.0" flags="32" /> 
+				<point pos="-1.786119 -10.009535 0.001700" range="0.5" height="1.5" flags="32" /> 
+				<point pos="-2.075416 -10.061617 2.187088" range="0.5" height="0.5" flags="32" /> 
+				<point pos="0.203708 -9.710231 3.253515" range="0.5" height="1.5" flags="32" /> 
+				<point pos="1.778676 -9.608641 2.810255" range="0.5" height="0.5" flags="32" /> 
+				<point pos="3.545604 -10.044180 0.088238" range="0.5" height="0.5" flags="32" /> 
+				<point pos="1.783195 -10.040625 0.872141" range="0.5" height="2.0" flags="32" /> 
+			</container>
+		</group>
+		<group name="ChristmasTree_Green" lootmax="11">
+			<container name="XmassFloor" lootmax="10">
+				<category name="containers" />
+				<tag name="xmass" />
+				<point pos="3.846302 -9.884858 -2.004677" range="0.5" height="1.5" flags="32" /> 
+				<point pos="1.373862 -9.936338 -2.753921" range="0.5" height="1.5" flags="32" /> 
+				<point pos="-0.930881 -9.590361 -3.250165" range="0.5" height="0.5" flags="32" /> 
+				<point pos="-2.586010 -9.663356 -1.876755" range="0.5" height="2.0" flags="32" /> 
+				<point pos="-1.786119 -10.009535 0.001700" range="0.5" height="1.5" flags="32" /> 
+				<point pos="-2.075416 -10.061617 2.187088" range="0.5" height="0.5" flags="32" /> 
+				<point pos="0.203708 -9.710231 3.253515" range="0.5" height="1.5" flags="32" /> 
+				<point pos="1.778676 -9.608641 2.810255" range="0.5" height="0.5" flags="32" /> 
+				<point pos="3.545604 -10.044180 0.088238" range="0.5" height="0.5" flags="32" /> 
+				<point pos="1.783195 -10.040625 0.872141" range="0.5" height="2.0" flags="32" /> 
+			</container>
+		</group>
+		<!---------------------->
 		<group name="land_ala_tower" lootmax="7">
 				<container name="Ground" lootmax="3">
 						<category name="tools" />

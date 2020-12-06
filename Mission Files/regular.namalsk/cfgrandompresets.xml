@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+	<!-- XMAS EVENT -->
+	<cargo chance="1.0" name="xmaslarge">
+		<item name="CanOpener" chance="0.025" />
+		<item name="Matchbox" chance="0.15" />
+		<item name="Battery9V" chance="0.10" />
+		<item name="SparkPlug" chance="0.05" />
+	</cargo>
+	<cargo chance="1.0" name="xmasmedium">
+		<item name="CanOpener" chance="0.025" />
+		<item name="Matchbox" chance="0.15" />
+		<item name="Battery9V" chance="0.10" />
+		<item name="SparkPlug" chance="0.05" />
+	</cargo>
+	<cargo chance="1.0" name="xmassmall">
+		<item name="CanOpener" chance="0.025" />
+		<item name="Matchbox" chance="0.15" />
+		<item name="Battery9V" chance="0.10" />
+		<item name="SparkPlug" chance="0.05" />
+	</cargo>
+	<!-- ---------- -->
 	<cargo chance="0.20" name="toolsgeneral">
 		<item name="KitchenKnife" chance="0.025" />
 		<item name="HuntingKnife" chance="0.025" />

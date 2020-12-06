@@ -20,9 +20,17 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="db/modded">
 		<file name="windstride_types.xml" type="types" />
 		<file name="dogtags_types.xml" type="types" />
+
 		<file name="adancedscopes_types.xml" type="types" />
 		<file name="a2dlc_weapons_types.xml" type="types" />
-		
 		<file name="a2dlc_weapons_spawnabletypes.xml" type="spawnabletypes" />
+
+		<file name="festiveSpawnables.xml" type="spawnabletypes" />
+		<file name="festiveTypes.xml" type="types" />
+		<file name="festiveEvents.xml" type="events" />
+	
+		<file name="vehicleSpawnables.xml" type="spawnabletypes" />
+		<file name="vehicleTypes.xml" type="types" />
+		<file name="vehicleEvents.xml" type="events" />
 	</ce>
 </economycore>
