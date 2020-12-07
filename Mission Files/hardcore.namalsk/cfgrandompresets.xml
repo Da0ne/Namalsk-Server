@@ -81,6 +81,10 @@
 		<item name="DuctTape" chance="0.05" />
 		<item name="SewingKit" chance="0.05" />
 		<item name="LeatherSewingKit" chance="0.05" />
+		<item name="Pen_Black" chance="0.15" />
+		<item name="Pen_Red" chance="0.20" />
+		<item name="Pen_Green" chance="0.25" />
+		<item name="Pen_Blue" chance="0.10" />
 	</cargo>
 
 	<cargo chance="0.20" name="toolshunting">

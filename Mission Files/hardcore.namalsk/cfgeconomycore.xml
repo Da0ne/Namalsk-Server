@@ -47,5 +47,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="vehicleSpawnables.xml" type="spawnabletypes" />
 		<file name="vehicleTypes.xml" type="types" />
 		<file name="vehicleEvents.xml" type="events" />
+
+		<file name="notesTypes.xml" type="types" />
 	</ce>
 </economycore>
