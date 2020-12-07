@@ -341,10 +341,10 @@
 	  <tag name="military" />
    </type>
    <type name="AD_PVS4">
-      <nominal>3</nominal>
+      <nominal>2</nominal>
       <lifetime>1800</lifetime>
       <restock>3600</restock>
-      <min>1</min>
+      <min>0</min>
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
