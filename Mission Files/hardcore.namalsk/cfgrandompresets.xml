@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+	<!-- INFECTED FROZEN FOOD -->
+	<cargo chance="0.15" name="frozenFood">
+		<item name="dzn_BakedBeansCan" chance="0.10" />
+		<item name="dzn_PeachesCan" chance="0.15" />
+		<item name="dzn_SpaghettiCan" chance="0.15" />
+		<item name="dzn_SardinesCan" chance="0.15" />
+		<item name="dzn_TunaCan" chance="0.10" />
+		<item name="dzn_Marmalade" chance="0.15" />
+		<item name="dzn_Canteen" chance="0.15" />
+		<item name="dzn_WaterBottle" chance="0.25" />
+		<item name="dzn_SodaCan_Pipsi" chance="0.25" />
+		<item name="dzn_SodaCan_Spite" chance="0.25" />
+		<item name="dzn_SodaCan_Kvass" chance="0.20" />
+		<item name="dzn_SodaCan_Cola" chance="0.25" />
+	</cargo>
+	<!-- INFECTED FROZEN FOOD end -->
+
 	<!-- XMAS EVENT -->
 	<cargo chance="1.0" name="xmaslarge">
 		<item name="ChestHolster" chance="0.15" />

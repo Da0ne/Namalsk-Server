@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<damage min="0.3" max="0.7" />
+	<!-- NAMALSK - INFECTED -->
+    <type name="ZmbF_BlueCollarFat_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_BlueCollarFat_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_BlueCollarFat_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_BlueCollarFat_White">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_CitizenANormal_Brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_CitizenBSkinny">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_Clerk_Normal_White">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_DoctorSkinny">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_HikerSkinny_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JoggerSkinny_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JournalistNormal_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_JournalistNormal_White">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MechanicNormal_Orange">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Black">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_MilkMaidOld_Grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_NurseFat">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ParamedicNormal_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_PatientOld">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_black">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_checks">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_stripes">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_white">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_ShortSkirt_yellow">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Striped">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SkaterYoung_Violet">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Orange">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_SurvivorNormal_White">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_VillagerOld_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_VillagerOld_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_VillagerOld_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbF_VillagerOld_White">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenASkinny_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_CitizenBFat_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ClerkFat_Brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ClerkFat_Grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ClerkFat_Khaki">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ClerkFat_White">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FarmerFat_Beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FarmerFat_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FarmerFat_Brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FarmerFat_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FishermanOld_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FishermanOld_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FishermanOld_Grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_FishermanOld_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Black">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HermitSkinny_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HunterOld_Autumn">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HunterOld_Spring">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HunterOld_Summer">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_HunterOld_Winter">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_beige">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_black">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_bluechecks">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_brown">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_greenchecks">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_grey">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_khaki">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_magenta">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_Jacket_stripes">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_JoggerSkinny_Red">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_JournalistSkinny">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Black">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Blue">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Green">
+        <cargo preset="frozenFood" />
+    </type>
+    <type name="ZmbM_ParamedicNormal_Red">
+        <cargo preset="frozenFood" />
+    </type>
+</spawnabletypes>
