@@ -21,4 +21,12 @@
         <!-- message itself with placeholders -->
         <text>This server will restart in #tmin minutes.</text>
     </message>
+	<message>
+        <repeat>15</repeat>
+        <text>Thank you for playing! To keep the server online please consider donating @ www.dayzvpp.com</text>
+    </message>
+	<message>
+        <repeat>20</repeat>
+        <text>Join our community website and discord @ www.dayzvpp.com</text>
+    </message>
 </messages>
