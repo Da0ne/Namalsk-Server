@@ -5,8 +5,8 @@
 				<default name="container" lootmax="10" />
 		</defaults>
 		<!-- Modded Additions!-->
-		<group name="ChristmasTree" lootmax="11">
-			<container name="XmassFloor" lootmax="10">
+		<group name="ChristmasTree" lootmax="20">
+			<container name="XmassFloor" lootmax="19">
 				<category name="containers" />
 				<tag name="xmass" />
 				<point pos="3.846302 -9.884858 -2.004677" range="0.5" height="1.5" flags="32" /> 
@@ -21,8 +21,8 @@
 				<point pos="1.783195 -10.040625 0.872141" range="0.5" height="2.0" flags="32" /> 
 			</container>
 		</group>
-		<group name="ChristmasTree_Green" lootmax="11">
-			<container name="XmassFloor" lootmax="10">
+		<group name="ChristmasTree_Green" lootmax="20">
+			<container name="XmassFloor" lootmax="19">
 				<category name="containers" />
 				<tag name="xmass" />
 				<point pos="3.846302 -9.884858 -2.004677" range="0.5" height="1.5" flags="32" /> 

@@ -14,8 +14,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="10" lootmin="3" max="5" min="1" type="ChristmasTree"/>
-            <child lootmax="10" lootmin="3" max="5" min="1" type="ChristmasTree_Green"/>
+            <child lootmax="19" lootmin="5" max="5" min="1" type="ChristmasTree"/>
+            <child lootmax="19" lootmin="5" max="5" min="1" type="ChristmasTree_Green"/>
         </children>
     </event>
 </events>

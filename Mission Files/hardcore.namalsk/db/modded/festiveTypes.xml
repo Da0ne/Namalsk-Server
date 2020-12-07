@@ -21,7 +21,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="GiftBox_Large_1">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -34,7 +34,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Large_2">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -47,7 +47,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Large_3">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -60,7 +60,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Large_4">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -73,7 +73,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Medium_1">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -86,7 +86,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Medium_2">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -99,7 +99,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Medium_3">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -112,7 +112,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Medium_4">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -125,7 +125,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Small_1">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -138,7 +138,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Small_2">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -151,7 +151,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Small_3">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -164,7 +164,7 @@
 		<tag name="xmass" />
     </type>
     <type name="GiftBox_Small_4">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
         <min>0</min>
