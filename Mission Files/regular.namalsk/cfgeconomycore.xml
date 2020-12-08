@@ -36,5 +36,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="notesTypes.xml" type="types" />
 
 		<file name="infectedSpawnables.xml" type="spawnabletypes" />
+
+		<file name="iglooTypes.xml" type="types" />
 	</ce>
 </economycore>
