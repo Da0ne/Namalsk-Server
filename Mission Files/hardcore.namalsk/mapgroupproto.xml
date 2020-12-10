@@ -37,7 +37,7 @@
 				<point pos="1.783195 -10.040625 0.872141" range="0.5" height="2.0" flags="32" /> 
 			</container>
 		</group>
-		<!---------------------->
+		<!-- -->
 		<group name="land_ala_tower" lootmax="7">
 				<container name="Ground" lootmax="3">
 						<category name="tools" />
