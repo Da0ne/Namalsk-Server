@@ -1,87 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
-	<!-- INFECTED FROZEN FOOD -->
-	<cargo chance="0.30" name="frozenFood">
-		<item name="dzn_BakedBeansCan" chance="0.10" />
-		<item name="dzn_PeachesCan" chance="0.15" />
-		<item name="dzn_SpaghettiCan" chance="0.15" />
-		<item name="dzn_SardinesCan" chance="0.15" />
-		<item name="dzn_TunaCan" chance="0.10" />
-		<item name="dzn_Marmalade" chance="0.15" />
-		<item name="dzn_Canteen" chance="0.15" />
-		<item name="dzn_WaterBottle" chance="0.25" />
-		<item name="dzn_SodaCan_Pipsi" chance="0.25" />
-		<item name="dzn_SodaCan_Spite" chance="0.25" />
-		<item name="dzn_SodaCan_Kvass" chance="0.20" />
-		<item name="dzn_SodaCan_Cola" chance="0.25" />
-	</cargo>
-	<!-- INFECTED FROZEN FOOD end -->
-
-	<!-- XMAS EVENT -->
-	<cargo chance="1.0" name="xmaslarge">
-		<item name="ChestHolster" chance="0.15" />
-		<item name="PoliceVest" chance="0.10" />
-		<item name="HighCapacityVest_Black" chance="0.25" />
-		<item name="dzn_highcapacityvest_nac" chance="0.30" />
-		<item name="dzn_smershvest_black" chance="0.25" />
-		<item name="UKAssVest_Black" chance="0.25" />
-		<item name="Deagle_Gold" chance="0.15" />
-		<item name="Deagle_Silver" chance="0.25" />
-		<item name="Mag_Deagle_9Rnd" chance="0.30" />
-		<item name="Mich2001Helmet" chance="0.30" />
-		<item name="dzn_milberet_green" chance="0.35" />
-		<item name="dzn_att_ghillie_winter" chance="0.25" />
-		<item name="dzn_att_ghillie_tandark" chance="0.20" />
-		<item name="dzn_att_ghilliehoodwinter" chance="0.35" />
-		<item name="dzn_att_ghilliehoodtandark" chance="0.09" />
-		<item name="dzn_sumrakhood_coldw" chance="0.15" />
-		<item name="dzn_sumrak_pants_coldw" chance="0.20" />
-		<item name="dzn_gorka_up_winter" chance="0.30" />
-	</cargo>
-	<cargo chance="1.0" name="xmasmedium">
-		<item name="dzn_bandana_wintercamopattern" chance="0.09" />
-		<item name="Heatpack" chance="0.35" />
-		<item name="Rope" chance="0.10" />
-		<item name="Rag" chance="0.15" />
-		<item name="BandageDressing" chance="0.15" />
-		<item name="DuctTape" chance="0.15" />
-		<item name="SewingKit" chance="0.5" />
-		<item name="LeatherSewingKit" chance="0.5" />
-		<item name="KitchenKnife" chance="0.25" />
-		<item name="CanOpener" chance="0.25" />
-		<item name="Matchbox" chance="0.20" />
-		<item name="Battery9V" chance="0.30" />
-		<item name="SparkPlug" chance="0.20" />
-		<item name="Ammo_380" chance="0.15" />
-		<item name="Ammo_12gaPellets" chance="0.20" />
-		<item name="AmmoBox_00buck_10rnd" chance="0.15" />
-		<item name="AmmoBox_45acp_25rnd" chance="0.25" />
-		<item name="dzn_meme_banana" chance="0.25" />
-		<item name="AmmoBox_556x45_20Rnd" chance="0.20" />
-		<item name="BloodBagEmpty" chance="0.25" />
-		<item name="SalineBag" chance="0.15" />
-		<item name="StartKitIV" chance="0.15" />
-		<item name="Morphine" chance="0.10" />
-		<item name="PainkillerTablets" chance="0.10" />
-		<item name="Epinephrine" chance="0.12" />
-		<item name="TetracyclineAntibiotics" chance="0.15" />
-		<item name="SalineBagIV" chance="0.10" />
-	</cargo>
-	<cargo chance="1.0" name="xmassmall">
-		<item name="Heatpack" chance="0.25" />
-		<item name="CanOpener" chance="0.25" />
-		<item name="Matchbox" chance="0.20" />
-		<item name="Battery9V" chance="0.30" />
-		<item name="SparkPlug" chance="0.20" />
-		<item name="Ammo_380" chance="0.15" />
-		<item name="Ammo_12gaPellets" chance="0.20" />
-		<item name="AmmoBox_00buck_10rnd" chance="0.15" />
-		<item name="AmmoBox_45acp_25rnd" chance="0.25" />
-		<item name="AmmoBox_556x45_20Rnd" chance="0.20" />
-		<item name="dzn_meme_banana" chance="0.15" />
-	</cargo>
-	<!-- XMAS EVENT END -->
-	<cargo chance="0.35" name="toolsgeneral">
+	<cargo chance="0.10" name="toolsgeneral">
 		<item name="KitchenKnife" chance="0.025" />
 		<item name="HuntingKnife" chance="0.025" />
 		<item name="SteakKnife" chance="0.025" />
@@ -120,11 +39,11 @@
 	<cargo chance="0.25" name="toolsmilitary">
 		<item name="CombatKnife" chance="0.15" />
 		<item name="Battery9V" chance="0.15" />
-		<item name="UniversalLight" chance="0.20" />
-		<item name="TLRLight" chance="0.20" />
+		<item name="UniversalLight" chance="0.10" />
+		<item name="TLRLight" chance="0.10" />
 		<item name="Roadflare" chance="0.20" />
-		<item name="BandageDressing" chance="0.05" />
-		<item name="Epinephrine" chance="0.05" />
+		<item name="BandageDressing" chance="0.15" />
+		<item name="Epinephrine" chance="0.15" />
 	</cargo>
 
 	<cargo chance="0.45" name="toolsmedic">
@@ -278,4 +197,87 @@
 		<item name="HighCapacityVest_Olive" chance="0.50" />
 		<item name="SmershVest" chance="0.50" />
 	</attachments>
+
+	<!-- CUSTOM STUFF -->
+	<!-- INFECTED FROZEN FOOD -->
+	<cargo chance="0.30" name="frozenFood">
+		<item name="dzn_BakedBeansCan" chance="0.10" />
+		<item name="dzn_PeachesCan" chance="0.15" />
+		<item name="dzn_SpaghettiCan" chance="0.15" />
+		<item name="dzn_SardinesCan" chance="0.15" />
+		<item name="dzn_TunaCan" chance="0.10" />
+		<item name="dzn_Marmalade" chance="0.15" />
+		<item name="dzn_Canteen" chance="0.15" />
+		<item name="dzn_WaterBottle" chance="0.25" />
+		<item name="dzn_SodaCan_Pipsi" chance="0.25" />
+		<item name="dzn_SodaCan_Spite" chance="0.25" />
+		<item name="dzn_SodaCan_Kvass" chance="0.20" />
+		<item name="dzn_SodaCan_Cola" chance="0.25" />
+	</cargo>
+	<!-- INFECTED FROZEN FOOD end -->
+
+	<!-- XMAS EVENT -->
+	<cargo chance="1.0" name="xmaslarge">
+		<item name="ChestHolster" chance="0.15" />
+		<item name="PoliceVest" chance="0.10" />
+		<item name="HighCapacityVest_Black" chance="0.25" />
+		<item name="dzn_highcapacityvest_nac" chance="0.30" />
+		<item name="dzn_smershvest_black" chance="0.25" />
+		<item name="UKAssVest_Black" chance="0.25" />
+		<item name="Deagle_Gold" chance="0.15" />
+		<item name="Deagle_Silver" chance="0.25" />
+		<item name="Mag_Deagle_9Rnd" chance="0.30" />
+		<item name="Mich2001Helmet" chance="0.30" />
+		<item name="dzn_milberet_green" chance="0.35" />
+		<item name="dzn_att_ghillie_winter" chance="0.25" />
+		<item name="dzn_att_ghillie_tandark" chance="0.20" />
+		<item name="dzn_att_ghilliehoodwinter" chance="0.35" />
+		<item name="dzn_att_ghilliehoodtandark" chance="0.09" />
+		<item name="dzn_sumrakhood_coldw" chance="0.15" />
+		<item name="dzn_sumrak_pants_coldw" chance="0.20" />
+		<item name="dzn_gorka_up_winter" chance="0.30" />
+	</cargo>
+	<cargo chance="1.0" name="xmasmedium">
+		<item name="dzn_bandana_wintercamopattern" chance="0.09" />
+		<item name="Heatpack" chance="0.35" />
+		<item name="Rope" chance="0.10" />
+		<item name="Rag" chance="0.15" />
+		<item name="BandageDressing" chance="0.15" />
+		<item name="DuctTape" chance="0.15" />
+		<item name="SewingKit" chance="0.5" />
+		<item name="LeatherSewingKit" chance="0.5" />
+		<item name="KitchenKnife" chance="0.25" />
+		<item name="CanOpener" chance="0.25" />
+		<item name="Matchbox" chance="0.20" />
+		<item name="Battery9V" chance="0.30" />
+		<item name="SparkPlug" chance="0.20" />
+		<item name="Ammo_380" chance="0.15" />
+		<item name="Ammo_12gaPellets" chance="0.20" />
+		<item name="AmmoBox_00buck_10rnd" chance="0.15" />
+		<item name="AmmoBox_45acp_25rnd" chance="0.25" />
+		<item name="dzn_meme_banana" chance="0.25" />
+		<item name="AmmoBox_556x45_20Rnd" chance="0.20" />
+		<item name="BloodBagEmpty" chance="0.25" />
+		<item name="SalineBag" chance="0.15" />
+		<item name="StartKitIV" chance="0.15" />
+		<item name="Morphine" chance="0.10" />
+		<item name="PainkillerTablets" chance="0.10" />
+		<item name="Epinephrine" chance="0.12" />
+		<item name="TetracyclineAntibiotics" chance="0.15" />
+		<item name="SalineBagIV" chance="0.10" />
+	</cargo>
+	<cargo chance="1.0" name="xmassmall">
+		<item name="Heatpack" chance="0.25" />
+		<item name="CanOpener" chance="0.25" />
+		<item name="Matchbox" chance="0.20" />
+		<item name="Battery9V" chance="0.30" />
+		<item name="SparkPlug" chance="0.20" />
+		<item name="Ammo_380" chance="0.15" />
+		<item name="Ammo_12gaPellets" chance="0.20" />
+		<item name="AmmoBox_00buck_10rnd" chance="0.15" />
+		<item name="AmmoBox_45acp_25rnd" chance="0.25" />
+		<item name="AmmoBox_556x45_20Rnd" chance="0.20" />
+		<item name="dzn_meme_banana" chance="0.15" />
+	</cargo>
+	<!-- XMAS EVENT END -->
 </randompresets>

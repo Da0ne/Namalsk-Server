@@ -622,8 +622,8 @@
     <tag name="police" />
   </type>
   <type name="LandMineTrap">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>6</nominal>
+    <min>4</min>
     <lifetime>604800</lifetime>
     <restock>900</restock>
     <quantmin>-1</quantmin>
@@ -1086,10 +1086,10 @@
     <tag name="military" />
   </type>
   <type name="Ammo_FlareRed">
-    <nominal>40</nominal>
+    <nominal>30</nominal>
     <lifetime>5400</lifetime>
     <restock>300</restock>
-    <min>35</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1421,7 +1421,7 @@
     <category name="weapons" />
     <tag name="military" />
   </type>
-  <type name="Mag_DE_9rnd">
+  <type name="Mag_Deagle_9rnd">
     <nominal>3</nominal>
     <min>2</min>
     <lifetime>5400</lifetime>
@@ -3072,6 +3072,20 @@
     <value />
     <category name="tools" />
     <tag name="fishing" />
+  </type>
+  <type name="GardenLime">
+    <nominal>10</nominal>
+    <min>8</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="farm" />
   </type>
   <type name="MediumTent">
     <nominal>5</nominal>
@@ -9002,7 +9016,7 @@
     <tag name="military" />
   </type>
   <type name="NVGoggles">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
@@ -10114,8 +10128,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieBushrag_Woodland">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
@@ -10136,7 +10150,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieTop_Woodland">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <min>2</min>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
@@ -10158,7 +10172,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieSuit_Woodland">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>3600</restock>
@@ -10180,8 +10194,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieHood_Woodland">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
