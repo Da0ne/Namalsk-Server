@@ -198,6 +198,19 @@
 	</attachments>
 
 	<!-- CUSTOM STUFF -->
+	<cargo chance="0.65" name="rublesDrop">
+		<item name="Money_Ruble1" chance="0.11" />
+		<item name="Money_Ruble2" chance="0.10" />
+		<item name="Money_Ruble5" chance="0.09" />
+		<item name="Money_Ruble10" chance="0.08" />
+		<item name="Money_Ruble50" chance="0.07" />
+		<item name="Money_Ruble100" chance="0.06" />
+		<item name="Money_Ruble200" chance="0.05" />
+		<item name="Money_Ruble500" chance="0.04" />
+		<item name="Money_Ruble1000" chance="0.04" />
+		<item name="Money_Ruble2000" chance="0.03" />
+		<item name="Money_Ruble5000" chance="0.01" />
+	</cargo>
 	<!-- INFECTED FROZEN FOOD -->
 	<cargo chance="0.15" name="frozenFood">
 		<item name="dzn_BakedBeansCan" chance="0.10" />
